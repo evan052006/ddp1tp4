@@ -1,0 +1,4 @@
+buat lelucon,kasih jokes,buat jokes,kasih lelucon
+tanya jam,jam berapa
+soal mat,soal matematika,beri soal
+tictactoe,tic tac toe

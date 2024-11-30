@@ -1,0 +1,141 @@
+Chatbot: Halo! Ada yang bisa saya bantu?
+User: tictactoe
+Chatbot: Oke, Seberapa tinggi kamu mau papannya?
+User: 4
+Chatbot: Oke, Seberapa lebar kamu mau papannya?
+User: 4
+Chatbot: Oke, Berapa banyak simbol sejajar yang mau dibutuhkan untuk menang?
+User: 4
+Chatbot: Oke, Apakah mau saya tampilkan gridnya?
+User: y
+Chatbot: Oke, silahkan pilih posisi dengan angka pertama posisi X dan angka kedua posisi Y
+1   2   3   4   
+  |   |   |    1
+- + - + - + -
+  |   |   |    2
+- + - + - + -
+  |   |   |    3
+- + - + - + -
+  |   |   |    4
+User: 4 1
+Chatbot: 
+1   2   3   4   
+  |   |   | @  1
+- + - + - + -
+  |   |   | &  2
+- + - + - + -
+  |   |   |    3
+- + - + - + -
+  |   |   |    4
+User: 3 2
+Chatbot: 
+1   2   3   4   
+  |   |   | @  1
+- + - + - + -
+  |   | @ | &  2
+- + - + - + -
+  |   |   |    3
+- + - + - + -
+  | & |   |    4
+User: 2 3
+Chatbot: 
+1   2   3   4   
+  |   |   | @  1
+- + - + - + -
+  |   | @ | &  2
+- + - + - + -
+  | @ |   |    3
+- + - + - + -
+& | & |   |    4
+User: 3 3
+Chatbot: 
+1   2   3   4   
+  |   |   | @  1
+- + - + - + -
+  |   | @ | &  2
+- + - + - + -
+  | @ | @ | &  3
+- + - + - + -
+& | & |   |    4
+User: 3 1
+Chatbot: 
+1   2   3   4   
+  |   | @ | @  1
+- + - + - + -
+  |   | @ | &  2
+- + - + - + -
+  | @ | @ | &  3
+- + - + - + -
+& | & | & |    4
+User: 4 4
+Chatbot: 
+1   2   3   4   
+& |   | @ | @  1
+- + - + - + -
+  |   | @ | &  2
+- + - + - + -
+  | @ | @ | &  3
+- + - + - + -
+& | & | & | @  4
+User: 2 2
+Chatbot: 
+1   2   3   4   
+& |   | @ | @  1
+- + - + - + -
+& | @ | @ | &  2
+- + - + - + -
+  | @ | @ | &  3
+- + - + - + -
+& | & | & | @  4
+User: 2 1
+Chatbot: 
+1   2   3   4   
+& | @ | @ | @  1
+- + - + - + -
+& | @ | @ | &  2
+- + - + - + -
+& | @ | @ | &  3
+- + - + - + -
+& | & | & | @  4
+you lose!
+User: soal mat
+Chatbot: 64 | 32 = ?
+User: 16
+Chatbot: Salah, jawaban yang benar adalah 96
+User: jam berapa
+Chatbot: Saat ini pukul 12:47:50
+User: buat lelucon
+Chatbot: Kenapa buku sejarah selalu diundang ke pesta? Karena dia punya banyak cerita seru!
+User: buat lelucon
+Chatbot: Kenapa gajah nggak pernah jadi bintang film? Karena terlalu besar untuk masuk layar!
+User: buat lelucon
+Chatbot: Apa bedanya tembok dan rumah? Tembok bisa bikin kamu terjebak, rumah bisa bikin kamu nyaman!
+User: buat lelucon
+Chatbot: Kenapa komputer tidak bisa diet? Karena selalu makan "bytes"!
+User: buat lelucon
+Chatbot: Kenapa matematika selalu sedih? Karena banyak masalah!
+User: buat lelucon
+Chatbot: Kenapa burung suka bernyanyi? Karena dia nggak bisa "berbicara"!
+User: buat lelucon
+Chatbot: Kenapa sapi nggak bisa jadi guru? Karena dia nggak bisa ngajarin anak-anak "sapi"!
+User: buat lelucon
+Chatbot: Kenapa komputer selalu bingung? Karena dia nggak pernah bisa "debug" hidupnya!
+User: buat lelucon
+Chatbot: Kenapa pelajaran bahasa Indonesia itu penting? Karena kalau nggak bisa, bisa jadi salah paham!
+User: buat lelucon
+Chatbot: Apa yang terjadi kalau kamu makan jamur? Kamu bisa jadi "fungi"!
+User: buat lelucon
+Chatbot: Kenapa sapi nggak bisa jadi guru? Karena dia nggak bisa ngajarin anak-anak "sapi"!
+User: buat lelucon
+Chatbot: Kenapa mobil nggak pernah tertawa? Karena dia selalu "flat"!
+User: buat lelucon
+Chatbot: Kenapa matematika selalu sedih? Karena banyak masalah!
+User: apa kabar
+Chatbot: kabar saya selalu baik! Bagaimana dengan kamu?
+User: halo
+Chatbot: Hi! Ada yang bisa saya bantu?
+User: bantu
+Chatbot: Apa yang ingin kamu tanyakan atau perlukan bantuan?
+User: ?
+Chatbot: Maaf, saya belum mengerti pertanyaan itu. Bisa coba yang lain!
+

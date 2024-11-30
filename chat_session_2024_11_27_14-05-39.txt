@@ -1,0 +1,99 @@
+Chatbot: Halo! Ada yang bisa saya bantu?
+User: tictactoe
+Chatbot: Oke, Seberapa tinggi kamu mau papannya?
+User: 5
+Chatbot: Oke, Seberapa lebar kamu mau papannya?
+User: 7
+Chatbot: Oke, Berapa banyak simbol sejajar yang mau dibutuhkan untuk menang?
+User: 3
+Chatbot: Oke, Apakah mau saya tampilkan gridnya?
+User: y
+Chatbot: Oke, silahkan pilih posisi dengan angka pertama posisi X dan angka kedua posisi Y
+1   2   3   4   5   6   7   
+  |   |   |   |   |   |    1
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    2
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    3
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    4
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    5
+User: 3 5
+Chatbot: I choose 5 4
+1   2   3   4   5   6   7   
+  |   |   |   |   |   |    1
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    2
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    3
+- + - + - + - + - + - + -
+  |   |   |   | & |   |    4
+- + - + - + - + - + - + -
+  |   | @ |   |   |   |    5
+User: 3 4
+Chatbot: I choose 3 3
+1   2   3   4   5   6   7   
+  |   |   |   |   |   |    1
+- + - + - + - + - + - + -
+  |   |   |   |   |   |    2
+- + - + - + - + - + - + -
+  |   | & |   |   |   |    3
+- + - + - + - + - + - + -
+  |   | @ |   | & |   |    4
+- + - + - + - + - + - + -
+  |   | @ |   |   |   |    5
+User: 4 3
+Chatbot: I choose 5 2
+1   2   3   4   5   6   7   
+  |   |   |   |   |   |    1
+- + - + - + - + - + - + -
+  |   |   |   | & |   |    2
+- + - + - + - + - + - + -
+  |   | & | @ |   |   |    3
+- + - + - + - + - + - + -
+  |   | @ |   | & |   |    4
+- + - + - + - + - + - + -
+  |   | @ |   |   |   |    5
+User: 2 5
+Chatbot: 
+1   2   3   4   5   6   7   
+  |   |   |   |   |   |    1
+- + - + - + - + - + - + -
+  |   |   |   | & |   |    2
+- + - + - + - + - + - + -
+  |   | & | @ |   |   |    3
+- + - + - + - + - + - + -
+  |   | @ |   | & |   |    4
+- + - + - + - + - + - + -
+  | @ | @ |   |   |   |    5
+Well done you win!
+User: buat lelucon
+Chatbot: Kenapa buku sejarah selalu diundang ke pesta? Karena dia punya banyak cerita seru!
+User: buat lelucon
+Chatbot: Kenapa ikan pinguin nggak bisa main bola? Karena dia selalu "slip"!
+User: buat lelucon
+Chatbot: Kenapa gajah nggak pernah jadi bintang film? Karena terlalu besar untuk masuk layar!
+User: buat lelucon
+Chatbot: Apa yang terjadi kalau kamu makan jamur? Kamu bisa jadi "fungi"!
+User: buat lelucon
+Chatbot: Kenapa sapi selalu bahagia? Karena dia punya "rumput hati"!
+User: buat lelucon
+Chatbot: Kenapa kucing suka naik pohon? Karena dia ingin cari kucing yang lebih tinggi!
+User: buat lelucon
+Chatbot: Ada dua jenis orang di dunia ini: yang bisa membedakan humor dan yang... nggak ngerti apa-apa!
+User: buat lelucon
+Chatbot: Kenapa ikan itu pintar? Karena dia tahu cara berenang dalam masalah!
+User: buat lelucon
+Chatbot: Kenapa komputer selalu bingung? Karena dia nggak pernah bisa "debug" hidupnya!
+User: soal mat
+Chatbot: 69 >> 3 = ?
+User: 5
+Chatbot: Salah, jawaban yang benar adalah 8
+User: soal mat
+Chatbot: 91 integer division 51 = ?
+User: aku benci matematika
+Chatbot: Masukkan angka yang valid sebagai jawaban.
+User: 1
+Chatbot: Benar! Jawabanmu tepat.😊
+

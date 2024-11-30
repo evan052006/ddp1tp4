@@ -1,0 +1,10 @@
+halo,hai,hello,Hi! Ada yang bisa saya bantu?
+selamat pagi,pagi,good morning,Selamat pagi! Bagaimana kabarnya?
+selamat malam,malam,good evening,Selamat malam! Semoga harimu menyenangkan.
+terima kasih,thanks,makasih,Sama-sama! Ada lagi yang bisa saya bantu?
+tolong,bantu,help,assist,Apa yang ingin kamu tanyakan atau perlukan bantuan?
+apa kabar,kabar gimana,how are you,Saya bot,kabar saya selalu baik! Bagaimana dengan kamu?
+bye,selamat tinggal,exit,Goodbye! Semoga harimu menyenangkan!
+nggak ngerti,tidak paham,ga paham,I’m sorry,saya tidak mengerti. Bisa dijelaskan lebih lanjut?
+kenapa,alasan,mengapa,Bisa ceritakan lebih detail supaya saya bisa membantu?
+siapa kamu,nama kamu siapa,siapa namamu,what's your name,Nama saya ChatDDP. Senang bertemu denganmu!
